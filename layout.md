@@ -9,6 +9,7 @@ Alternative_technologies__.md
 Related_studies__.md
 Relevance_to_practice__.md
 Experiment_planning__.md
+Goals__.md
 Methods__.md
 Measures__.md
 Source_to_source_transformation__1.md
