@@ -12,6 +12,7 @@ Experiment_planning__.md
 Goals__.md
 Experimental_units__.md
 Experimental_materials__.md
+Tasks__.md
 Methods__.md
 Measures__.md
 Source_to_source_transformation__1.md
