@@ -18,6 +18,7 @@ Experiment_Design__.md
 Analysis_Procedure__.md
 Execution__.md
 Preparations__.md
+Deviations__.md
 Procedure__.md
 Methods__.md
 Measures__.md
