@@ -33,5 +33,4 @@ Conclusions_and_future_work__.md
 Summary__.md
 Impact__.md
 Future_work__.md
-Results__.md
 Discussion__.md
