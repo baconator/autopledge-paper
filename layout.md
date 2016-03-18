@@ -23,6 +23,7 @@ Descriptive_statistics__.md
 Data_set_preparation__.md
 Hypothesis_testing__.md
 Discussion__1.md
+Evaluation_of_results_and_implications__.md
 Procedure__.md
 Methods__.md
 Measures__.md
