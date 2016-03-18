@@ -14,14 +14,12 @@ solution.
 
 ## Research objective
 With regard to the research objective, or, as Wohlin et al. called it, the “Definition of the
-Experiment”, the description should follow the goal template of the Goal/Question/Metric (GQM)
+Experiment”, the description should follow the goal template of the Goal/Question/Metric (GQM) \cite{Bannister_2015}
 method [24]:
 
-> Analyze <Object(s) of study> for the purpose of <purpose> with respect to their <Quality Focus>
-> from the point of view of the <Perspective> in the context of <context>.
-> For examples of the use of the goal definition template, see [34] or [25]. The common use of this
-> formalized format would increase the comparability of research objectives, e.g., for the purpose of
-> systematic reviews. 
+_Analyze <Object(s) of study> for the purpose of <purpose> with respect to their <Quality Focus> from the point of view of the <Perspective> in the context of <context>._
+For examples of the use of the goal definition template, see [34] or [25]. The common use of this
+formalized format would increase the comparability of research objectives, e.g., for the purpose of systematic reviews. 
 
 ## Context
 Similar to the CONSORT Statement [1], our Context subsection suggests that the setting and
