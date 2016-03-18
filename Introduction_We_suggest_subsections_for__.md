@@ -14,7 +14,7 @@ solution.
 
 ## Research objective
 With regard to the research objective, or, as Wohlin et al. called it, the “Definition of the
-Experiment”, the description should follow the goal template of the Goal/Question/Metric (GQM) \cite{Bannister_2015}
+Experiment”, the description should follow the goal template of the Goal/Question/Metric (GQM)
 method [24]:
 
 _Analyze <Object(s) of study> for the purpose of <purpose> with respect to their <Quality Focus> from the point of view of the <Perspective> in the context of <context>._
