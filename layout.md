@@ -6,6 +6,7 @@ Context__.md
 Related_work__.md
 Technology_under_investigation__.md
 Alternative_technologies__.md
+Related_studies__.md
 Methods__.md
 Measures__.md
 Source_to_source_transformation__1.md
