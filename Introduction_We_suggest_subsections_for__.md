@@ -17,7 +17,7 @@ With regard to the research objective, or, as Wohlin et al. called it, the “De
 Experiment”, the description should follow the goal template of the Goal/Question/Metric (GQM)
 method [24]:
 
-_Analyze <Object(s) of study> for the purpose of <purpose> with respect to their <Quality Focus> from the point of view of the <Perspective> in the context of <context>._
+`Analyze <Object(s) of study> for the purpose of <purpose> with respect to their <Quality Focus> from the point of view of the <Perspective> in the context of <context>.`
 For examples of the use of the goal definition template, see [34] or [25]. The common use of this
 formalized format would increase the comparability of research objectives, e.g., for the purpose of systematic reviews. 
 
