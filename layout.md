@@ -16,6 +16,7 @@ Tasks__.md
 Hypotheses_Parameters_and_Variables__.md
 Experiment_Design__.md
 Analysis_Procedure__.md
+Execution__.md
 Procedure__.md
 Methods__.md
 Measures__.md
