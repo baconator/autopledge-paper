@@ -1,4 +1,3 @@
-abstract.tex
 Introduction__.md
 Related_work__.md
 Methods__.md
