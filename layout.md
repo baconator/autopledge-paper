@@ -5,6 +5,7 @@ Research_objective__.md
 Context__.md
 Related_work__.md
 Technology_under_investigation__.md
+Alternative_technologies__.md
 Methods__.md
 Measures__.md
 Source_to_source_transformation__1.md
