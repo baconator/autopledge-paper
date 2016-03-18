@@ -15,7 +15,6 @@ Experimental_materials__.md
 Tasks__.md
 Hypotheses_Parameters_and_Variables__.md
 Experiment_Design__.md
-Analysis_Execution__.md
 Preparations__.md
 Deviations__.md
 Analysis__.md
@@ -23,9 +22,8 @@ Descriptive_statistics__.md
 Data_set_preparation__.md
 Hypothesis_testing__.md
 Discussion__1.md
-Threats_to_validity__.md
 Evaluation_of_results_and_implications__.md
-Procedure__.md
+Threats_to_validity__.md
 Methods__.md
 Measures__.md
 Source_to_source_transformation__1.md
