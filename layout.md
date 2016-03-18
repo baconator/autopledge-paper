@@ -20,6 +20,7 @@ Execution__.md
 Preparations__.md
 Deviations__.md
 Analysis__.md
+Descriptive_statistics__.md
 Procedure__.md
 Methods__.md
 Measures__.md
