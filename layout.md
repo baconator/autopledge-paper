@@ -34,6 +34,5 @@ Summary__.md
 Impact__.md
 Future_work__.md
 Measures__.md
-System_call_constraint_propagation__.md
 Results__.md
 Discussion__.md
