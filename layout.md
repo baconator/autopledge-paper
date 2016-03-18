@@ -15,6 +15,7 @@ Experimental_materials__.md
 Tasks__.md
 Hypotheses_Parameters_and_Variables__.md
 Experiment_Design__.md
+Procedure__.md
 Execution__1.md
 Preparations__.md
 Deviations__.md
