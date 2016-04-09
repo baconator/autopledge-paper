@@ -2,7 +2,6 @@ abstract.md
 Introduction_We_suggest_subsections_for__.md
 Motivation__.md
 Research_objective__.md
-Context__.md
 Related_work__.md
 Technology_under_investigation__.md
 Alternative_technologies__.md
