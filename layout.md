@@ -2,6 +2,7 @@ abstract.md
 Introduction_We_suggest_subsections_for__.md
 Motivation__.md
 Contributions__.md
+figures/interactive-figure-1460309284234/figure.html
 Related_work__.md
 Technology_under_investigation__.md
 Alternative_technologies__.md
