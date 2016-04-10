@@ -4,7 +4,7 @@ System and high performance computing code are often written in low level langua
 
 Based on the observation that JOP uses many libraries that makes system calls, De Raadt proposed a new mitigation technique against control-flow attacks _Pledge_\cite{pledge} for the OpenBSD operating system. To reduce the attack surface, programmers can annotate their program with pledge\cite{pledge(2)} requests to limit the number of systems calls a program can make. When running a pledged program, the kernel can enforce the pledge annotations and report an error if the program attempts to make system call that is not allowed. Figure 1 shows the example of how the _cat_ program is annotated in OpenBSD.
 
-\begin{lstlisting}
+\begin{lstlisting}[caption=cat.c]
 int main() {
     int ch;
     
