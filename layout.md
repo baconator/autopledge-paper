@@ -2,7 +2,6 @@ abstract.md
 Introduction_We_suggest_subsections_for__.md
 Motivation__.md
 Contributions__.md
-figures/Untitled drawing/Untitled drawing.svg
 Related_work__.md
 Technology_under_investigation__.md
 Alternative_technologies__.md
