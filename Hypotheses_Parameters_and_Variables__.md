@@ -1,1 +1,1 @@
-##Hypotheses, Parameters, and Variables
+##Hypotheses
