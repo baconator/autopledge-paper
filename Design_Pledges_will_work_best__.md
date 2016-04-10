@@ -7,8 +7,13 @@
 
 - Introduce the notion of A and A'
     - A is what has already been executed in a function f
-    - A' is the set of system calls that can occur in the future of the execution of a function f. 
-    - A' includes the outcome 
+    - A' is the set of system calls that can occur in the future of the execution of a function f, including those from functions that can possibly be called from a callsite in f or any function down that chain
+    -  CONTEXT
+    
 
 
-\[F=\bigcup_{i}^{j}S_f\]
+\[F=\bigcup_{i \in I}S_{f_i}\]
+
+\[A=\bigcup_{i=0}^{j}S_{f_i}\]
+
+\[A'=F \backslash A\]
