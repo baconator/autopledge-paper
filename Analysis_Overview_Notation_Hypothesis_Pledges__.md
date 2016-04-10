@@ -1,10 +1,4 @@
 #Analysis
-
-### Overview
-
-### Notation
-
-## Hypothesis
 - Pledges will work best when a pledge occurs immediately after a system call so any method of making a subsequent system call of the same type cannot be used. 
 - However, if in the flow of the program there is more than one execution of a system call, a pledge cannot occur after the first or else the second call will fail from the pledge.
     - Loops may run the system call many times and Recursive calls may run the same block of code many times by calling itself or through mutual recursion.
