@@ -7,7 +7,7 @@ Technology_under_investigation__.md
 Alternative_technologies__.md
 Related_studies__.md
 Relevance_to_practice__.md
-Experiment_planning__.md
+Design__.md
 Goals__.md
 Experimental_units__.md
 Experimental_materials__.md
