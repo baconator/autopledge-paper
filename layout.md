@@ -11,7 +11,6 @@ Analysis_Pledges_will_work_best__.md
 Overview__.md
 Experimental_units__.md
 Experimental_materials__.md
-Tasks__.md
 Hypotheses_Parameters_and_Variables__.md
 Experiment_Design__.md
 Procedure__.md
