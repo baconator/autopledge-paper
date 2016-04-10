@@ -3,3 +3,15 @@
 System and high performance computing code are often written in low level languages such as C and C++. Low level languages provide high performance but are open to memory corruption attacks due to lack memory safety and manual memory management. Memory corruption attacks \cite{Szekeres_2013} starts by creating memory errors such as overflows, underflows or dangling pointers. One main type of memory corruption attack is control-flow hijacking that takes control of the entire program by using memory errors to enable the write and execution of desired instructions. The classic control-flow attack that works by overwriting the program with new instructions can prevented with non-executable data policies, however attacks can use Jump Oriented Programming (JOP) to bypass data policies by chaining in-memory code. One common library used for JOP is libc, these attacks are referred "return-to-libc" attacks. There are enough instruction sequences in libc's functions that make it Turing complete \cite{Tran_2011}, allowing attackers to chain together these sequences to create arbitrary programs. Currently there are no policies that prevent JOP because it executes valid code from memory, but mitigation techniques \cite{Li_2010}\cite{Pappas_2012}\cite{pledge} can be applied to reduce the effectiveness of such attacks.
 
 Based on the observation that JOP uses many libraries that makes system calls, De Raadt proposed a new mitigation technique against control-flow attacks _Pledge_\cite{pledge} for the OpenBSD operating system. To reduce the attack surface, programmers can annotate their program with pledge\cite{pledge(2)} requests to limit the number of systems calls a program can make. When running a pledged program, the kernel can enforce the pledge annotations and report an error if the program attempts to make system call that is not allowed. Figure 1 shows the example of how the _cat_ program is annotated in OpenBSD.
+
+int main(int argc, char *argv[])
+{
+	int ch;
+
+	setlocale(LC_ALL, "");
+
+	if (pledge("stdio rpath", NULL) == -1)
+		err(1, "pledge");
+		
+	// rest of the code
+}
