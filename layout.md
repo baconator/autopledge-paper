@@ -1,7 +1,6 @@
 abstract.md
 Introduction_We_suggest_subsections_for__.md
 subsection_Motivation_System_and_high__.tex
-Motivation_System_and_high_performance__.md
 Contributions__.md
 Related_work__.md
 Technology_under_investigation__.md
