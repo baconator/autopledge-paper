@@ -9,7 +9,6 @@ Overview_A_control_flow_hijacking__.md
 Notation_Suppose_the_analysis_is__.md
 A_basic_block_is_a__.md
 figures/Term Paper Notes/Term Paper Notes (2).png
-To_determine_where_pledge_calls__.tex
 To_determine_where_pledge_calls__.md
 Hypotheses_Parameters_and_Variables__.md
 Execution_More_text_Other_text__.md
