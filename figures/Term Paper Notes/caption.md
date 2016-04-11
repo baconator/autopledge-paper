@@ -1,1 +1,1 @@
-Replace this text with your caption
+Function _f_ has two basic blocks, the first has system call 1 and the second has system call 2. The first basic block in _f_ also calls function _g_ which has a single basic block that also has system call 2.
