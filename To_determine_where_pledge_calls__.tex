@@ -1,0 +1,3 @@
+To determine where pledge calls can be inserted into the program shown in Figure 1, knowledge of function _f_ calling function _g_ and them both calling system call 2 is required. That knowledge would allow the determination that a pledge on system call 2 can only occur at the end of the second basic block in _f_ instead of after _g_ is called.
+
+To make that determination, the 
