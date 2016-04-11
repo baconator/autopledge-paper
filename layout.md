@@ -4,7 +4,6 @@ Motivation_System_and_high_performance__.md
 Contributions_This_paper_make_the__.md
 Related_work__.md
 Technology_under_investigation__.md
-Alternative_technologies__.md
 Related_studies__.md
 Relevance_to_practice__.md
 Analysis_Pledges_will_work_best__.md
