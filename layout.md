@@ -9,7 +9,6 @@ Related_studies__.md
 Relevance_to_practice__.md
 Analysis_Pledges_will_work_best__.md
 Overview_A_control_flow_hijacking__.md
-figures/Term Paper Notes (2)/Term Paper Notes (2).png
 Notation_Suppose_the_analysis_is__.md
 figures/Term Paper Notes/Term Paper Notes.png
 Hypotheses_Parameters_and_Variables__.md
