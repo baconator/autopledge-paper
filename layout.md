@@ -7,6 +7,7 @@ Technology_under_investigation__.md
 Analysis_Pledges_will_work_best__.md
 Overview_A_control_flow_hijacking__.md
 Notation_Suppose_the_analysis_is__.md
+A_basic_block_is_a__.md
 figures/Term Paper Notes/Term Paper Notes (2).png
 To_determine_where_pledge_calls__.tex
 Hypotheses_Parameters_and_Variables__.md
