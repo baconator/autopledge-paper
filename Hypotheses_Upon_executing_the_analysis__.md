@@ -10,7 +10,7 @@ The following are the equations that will be used for finding the location to in
 
 \[A=\bigcup_{i=0}^{j}F_i\]
 
-\[A'=\bigcup_{i=j+1}^{n}F_i \cup G\]
+\[A'=[\bigcup_{i=j+1}^{n}F_i] \cup G\]
 
 (1) follows from the fact that sets of system calls for each basic block \(F_i\) form their containing function \(f\). Then
 
