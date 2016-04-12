@@ -8,11 +8,13 @@ It then follows that in a function \(f\) with \(n\) basic blocks at basic block 
 
 \[A=\bigcup_{i=0}^{j}F_i\]
 
-If function \(f\) was called by function \(g\), then:
+If function \(f\) was called by function \(g\), which also has a set of basic blocks that remain to be executed \(B'\), then:
 
-\[A'=[ \bigcup_{i=j+1}^{n}F_i ] \cup G\]
+\[A'=[ \bigcup_{i=j+1}^{n}F_i ] \cup B'\]
 
 Otherwise \(G\) would just be the empty set.
 
-(1) follows from the fact that sets of system calls for each basic block \(F_i\) form their containing function \(f\). Then
+(1) follows from the fact that sets of system calls for each basic block \(F_i\) form their containing function \(f\) while (2) and (3) made from two partitions of \(F_i\) for \(i..n\). However, (3) would require extra types of system calls if \(f\) were called from \(g\). Because the analysis is done on a per function basis but considers system calls from other functions, \(g\) would have it's own sets of executed and to be executed system call which we'll call \(B\) and \(B'\). The context of \(B'\) is required because if it contained a system call \(s\) that was also in \(A\) but not \(A'\), then a pledge discluding \(s\) would be made after the latest added basic block in \(A\). With that context unioned with \(A'\), \(s\) will not be removed from subsequent pledges within \(f\) since it will be required after \(f\) has completed in \(g\). It's also important to note that if an execution of a program has a call stack with multiple functions \(g_i\) called before \(f\), only the context of the function call before it is required because each function would union its context into its subsequent called function.
+
+The notion of a call stack is a dynamic one that would be normally be seen in an execution trace even though this analysis is static. The information needed to complete the analysis meaningfully can be derived from a call graph.  
 
