@@ -10,7 +10,7 @@ It then follows that in a function \(f\) with \(n\) basic blocks at basic block 
 
 \[A=\bigcup_{i=0}^{j}F_i\]
 
-If function \(f\) can be called by function \(g\), the system calls belonging to the set of basic blocks that would be executed after the call site which could call \(f\) are denoted by \(B'\). Then:
+If function \(f\) can be called by function \(g\), the system calls belonging to the set of basic blocks that would be executed after the call site which could call \(f\) in \(g\) are denoted by \(B'\). Then:
 
 \[A'=[ \bigcup_{i=j+1}^{n}F_i ] \cup B'\]
 
