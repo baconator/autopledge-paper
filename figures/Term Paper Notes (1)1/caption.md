@@ -1,1 +1,1 @@
-Replace this text with your caption
+\(A\) is increased by including all system calls available to function \(g\) due to including a call site in \(f\). However, a pledge is still not created to disclude system call 2 because it's still used later in \(f\).
