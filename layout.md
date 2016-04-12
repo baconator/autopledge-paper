@@ -8,7 +8,7 @@ Analysis_Pledges_will_work_best__.md
 Overview_A_control_flow_hijacking__.md
 Notation_Suppose_the_analysis_is__.md
 A_basic_block_is_a__.md
-figures/Term Paper Notes/Term Paper Notes (2).png
+figures/Term Paper Notes/Term Paper Notes.png
 To_determine_where_pledge_calls__.md
 Hypotheses_Upon_executing_the_analysis__.md
 Execution_More_text_Other_text__.md
