@@ -11,6 +11,7 @@ A_basic_block_is_a__.md
 figures/Term Paper Notes/Term Paper Notes.png
 To_determine_where_pledge_calls__.md
 Hypotheses_Upon_executing_the_analysis__.md
+figures/Term Paper Notes (2)2/Term Paper Notes (2)2.png
 The_notion_of_a_call__.md
 Execution_More_text_Other_text__.md
 Preparations__.md
