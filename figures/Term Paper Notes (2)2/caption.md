@@ -1,1 +1,1 @@
-Replace this text with your caption
+\(A\) contains the system calls of the first basic block in \(f\) and \(A'\) contains the system calls of the second basic block in \(f\) as well as all system calls of \(g\). The analysis will find that system call 1 can be removed from a pledge call after that first basic block in \(f\), unless another function calling \(f\) later requires it.
