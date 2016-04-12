@@ -8,7 +8,11 @@ It then follows that in a function \(f\) with \(n\) basic blocks at basic block 
 
 \[A=\bigcup_{i=0}^{j}F_i\]
 
+If function \(f\) was called by function \(g\), then:
+
 \[A'=[ \bigcup_{i=j+1}^{n}F_i ] \cup G\]
+
+Otherwise \(G\) would just be the empty set.
 
 (1) follows from the fact that sets of system calls for each basic block \(F_i\) form their containing function \(f\). Then
 
