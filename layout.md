@@ -14,7 +14,7 @@ Hypotheses_Upon_executing_the_analysis__.md
 figures/Term Paper Notes (2)2/Term Paper Notes (2)2.png
 figures/Term Paper Notes (1)1/Term Paper Notes (1)1.png
 The_notion_of_a_call__.md
-Execution_More_text_Other_text__.md
+Autopledge__.md
 Preparations__.md
 Deviations__.md
 Analysis__.md
