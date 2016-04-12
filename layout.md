@@ -17,7 +17,6 @@ The_notion_of_a_call__.md
 Autopledge__.md
 Preparations__.md
 Deviations__.md
-Hypothesis_testing__.md
 Discussion__1.md
 Evaluation_of_results_and_implications__.md
 Threats_to_validity__.md
