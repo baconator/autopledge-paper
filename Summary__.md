@@ -1,1 +1,3 @@
-##Summary
+##Summary and Future Work
+
+The implementation of Autopledge was incomplete, however, the algorithm proposed by this paper appears sound and may be applicable to further work. We have provided an overview of the previous work in this area, as well as a more formal definition of the constraints implied by pledge and by extension, other implementations of the notion of capabilities. Future work may expand upon the partial implementation provided by this paper, or investigate improvements to the algorithm itself.
