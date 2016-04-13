@@ -1,3 +1,3 @@
 ##Lessons learned
 
-- Program analysis tools have poor documentation
+The field of program analysis is certainly complex, however, this is not aided by the degree of complexity of the C++ language. This complexity, expressed through the variety of data structures and unstructured program flow possible (and utilized) by many applications makes analysis difficult. Although this can be alleviated this to an extent, the underlying complexity eventually becomes clear: few examples and resources are available to the prospective users of analysis frameworks, and a lack of shared terminology further complicates learning. An inherent complexity of the domain causes complexity of the API and a lack of popular usage prevents the iterative simplification of the API which in sum makes it difficult to make progress at any reasonable rate.
