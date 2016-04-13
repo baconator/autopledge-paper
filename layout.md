@@ -16,7 +16,7 @@ figures/Term Paper Notes (1)1/Term Paper Notes (1)1.png
 The_notion_of_a_call__.md
 Autopledge__.md
 Overview__.md
-Deviations__.md
+Finding_Pledge_Call_Locations__.md
 Discussion_The_algorithm_could_have__.md
 Evaluation_of_results_and_implications__.md
 Threats_to_validity__.md
