@@ -21,7 +21,7 @@ Finding_Pledge_Call_Locations__.md
 Discussion_The_algorithm_could_have__.md
 Evaluation_of_results_and_implications__.md
 Threats_to_validity__.md
-Inferences__.md
+Inferences_Probably_not_applicable_since__.md
 Lessons_learned_Program_analysis_tools__.md
 Conclusions_and_future_work__.md
 Summary__.md
