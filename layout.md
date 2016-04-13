@@ -16,7 +16,7 @@ figures/Term Paper Notes (1)1/Term Paper Notes (1)1.png
 The_notion_of_a_call__.md
 Autopledge__.md
 Overview_An_ideal_pledge_call__.md
-Setup_To_perform_the_analysis__.md
+Setup_Some_form_of_call__.md
 Finding_Pledge_Call_Locations__.md
 Results_Whatever_ends_up_happening__.md
 Discussion_The_algorithm_could_have__.md
