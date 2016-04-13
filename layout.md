@@ -24,5 +24,4 @@ Threats_to_validity_In_order__.md
 Lessons_learned_The_field_of__.md
 Conclusions_and_future_work__.md
 Summary__.md
-Impact__.md
 Future_work__.md
