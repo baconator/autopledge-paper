@@ -21,7 +21,6 @@ subsubsection_Finding_Pledge_Call_Locations__.tex
 Results_Due_to_time_constraints__.md
 Discussion_The_algorithm_could_have__.md
 Threats_to_validity_In_order__.md
-Inferences_Probably_not_applicable_since__.md
 Lessons_learned_Program_analysis_tools__.md
 Conclusions_and_future_work__.md
 Summary__.md
